@@ -7,6 +7,7 @@
 ## 第一步
 
 点击 [这里前往蓝奏云盘下载](https://wwi.lanzouj.com/b01dbu7yh) 提取码：d5ba
+
 PS: Github的文件可能不会同步更新
 
 ## 第二步
