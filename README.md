@@ -4,7 +4,7 @@
 
 ##### **通过修改系统 hosts 文件实现加速，简单、高效。**
 
-![](https://github.com/vvmcat/Github-SpeedUpTool/raw/main/screenshot.png)
+![](https://github.com/vvmcat/Github-SpeedUpTool/blob/6dd1b74f7c3c0be37240bd8c067e3e0d091582b7/screenshot1140.png?raw=true)
 
 # 食用步骤
 
